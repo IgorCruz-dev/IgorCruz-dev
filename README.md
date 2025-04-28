@@ -12,7 +12,7 @@ Me chamo Igor JosÃ© da Silva Cruz, tenho 18 anos e sou natural do interior de SÃ
             src="https://custom-icon-badges.demolab.com/github/followers/IgorCruz-dev?color=FF1493&labelColor=C71585&style=for-the-badge&logo=Instagram&label=Instagram&logoColor=white"
         />
     </a>
-    <a href="www.linkedin.com/in/igor-cruz-7783a3265">
+    <a href="https://www.linkedin.com/in/igor-cruz-7783a3265/">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
