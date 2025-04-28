@@ -5,30 +5,30 @@
 Me chamo Igor José da Silva Cruz, tenho 18 anos e sou natural do interior de São Paulo. Concluí o ensino médio no colégio particular Liceu Paulo Freire, onde fui contemplado com uma bolsa de estudos integral pelo meu desempenho acadêmico. Atualmente, estou cursando Sistemas de Informação na FAFRAM. Sou apaixonado por tecnologia e constantemente busco aprender e adquirir experiência profissional. 
 
 <p align="left">
-<a href="https://www.instagram.com/igorjscruz/">
-        <img 
-            alt="Instagram" 
-            title="Instagram" 
-            src="https://custom-icon-badges.demolab.com/github/followers/IgorCruz-dev?color=FF1493&labelColor=C71585&style=for-the-badge&logo=Instagram&label=Instagram&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/igor-cruz-7783a3265/">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/followers/IgorCruz-dev?color=6495ED&labelColor=4169E1&style=for-the-badge&logo=LinkedIn&label=LinkedIn&logoColor=white"
-        />
-    </a>
-     <a href="https://mail.google.com/mail/u/1/#inbox?compose=lqrslzLQBxnkhMFpzrmHqVhZtQZxhJQgpNsbsmhSnwfctPPwnsmTZbmxPFxwmTZwxsQTdwKKkDhZWkZGf">
-        <img 
-            alt="Gmail" 
-            title="Gmail" 
-            src="https://custom-icon-badges.demolab.com/github/followers/IgorCruz-dev?color=FA8072&labelColor=B22222&style=for-the-badge&logo=Gmail&label=Gmail&logoColor=white"
-        />
-    </a>
-    
-    
+  <a href="https://www.instagram.com/igorjscruz/" target="_blank">
+    <img 
+      alt="Instagram" 
+      title="Instagram" 
+      src="https://img.shields.io/badge/Instagram-1237K-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C71585"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/igor-cruz-7783a3265/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e76a8"
+    />
+  </a>
+
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRvwLwRzWMNtFGKsjhwqMDCqkprKFrWqFdfzdHMVkQjZqGdrFGfKBmtDgvDDDKHsGBBMFjB" target="_blank">
+    <img 
+      alt="Gmail" 
+      title="Gmail" 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"
+    />
+  </a>
 </p>
+
 
 ---
 
