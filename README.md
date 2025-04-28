@@ -20,13 +20,13 @@ Me chamo Igor JosÃ© da Silva Cruz, tenho 18 anos e sou natural do interior de SÃ
     />
   </a>
 
-  <a href="https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRvwLwRzWMNtFGKsjhwqMDCqkprKFrWqFdfzdHMVkQjZqGdrFGfKBmtDgvDDDKHsGBBMFjB" target="_blank">
-    <img 
-      alt="Gmail" 
-      title="Gmail" 
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"
-    />
-  </a>
+ <a href="mailto:igorjscruz07@gmail.com" target="_blank">
+  <img 
+    alt="Gmail" 
+    title="Gmail" 
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"
+  />
+</a>
 </p>
 
 
