@@ -20,17 +20,15 @@ Me chamo Igor José da Silva Cruz, tenho 18 anos e sou natural do interior de S�
       src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-
-  <a href="mailto:igorjscruz@gmail.com" target="_blank">
-    <img 
-      alt="Gmail" 
-      title="Gmail" 
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
+  
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=igorjscruz@gmail.com" target="_blank">
+  <img 
+    alt="Gmail" 
+    title="Gmail" 
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
 </p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
