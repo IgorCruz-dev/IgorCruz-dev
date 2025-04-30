@@ -9,26 +9,26 @@ Me chamo Igor Jos√© da Silva Cruz, tenho 18 anos e sou natural do interior de S√
     <img 
       alt="Instagram" 
       title="Instagram" 
-      src="https://img.shields.io/badge/Instagram-1242K-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C71585"
+      src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
+  
   <a href="https://www.linkedin.com/in/igor-cruz-7783a3265/" target="_blank">
     <img 
       alt="LinkedIn" 
       title="LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e76a8"
+      src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
 
- <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSMSqcsrTQjztmRRZkrMSqsxdWVNvxWFsvPHhVMPkQDdDTxZJvfhpvjDrcjwdRTxfLLHhZTg" target="_blank">
-  <img 
-    alt="Gmail" 
-    title="Gmail" 
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"
-  />
-</a>
+  <a href="mailto:igorjscruz@gmail.com" target="_blank">
+    <img 
+      alt="Gmail" 
+      title="Gmail" 
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
 </p>
-
 
 ---
 
@@ -67,4 +67,3 @@ Me chamo Igor Jos√© da Silva Cruz, tenho 18 anos e sou natural do interior de S√
   alt="Principais linguagens" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCruz-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
 />
-
