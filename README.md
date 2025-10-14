@@ -51,17 +51,3 @@ Me chamo Igor José da Silva Cruz, tenho 18 anos e sou natural do interior de S�
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
- <img 
-    alt="Estatísticas do GitHub" 
-    src="https://github-readme-stats.vercel.app/api?username=IgorCruz-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-<br />
-
-<img 
-  alt="Principais linguagens" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCruz-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
-/>
