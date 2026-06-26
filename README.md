@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor FullStack`**
 
-Me chamo Igor José da Silva Cruz, tenho 18 anos e sou natural do interior de São Paulo. Concluí o ensino médio no colégio particular Liceu Paulo Freire, onde fui contemplado com uma bolsa de estudos integral pelo meu desempenho acadêmico. Atualmente, estou cursando Sistemas de Informação na FAFRAM. Sou apaixonado por tecnologia e constantemente busco aprender e adquirir experiência profissional. 
+Me chamo Igor José da Silva Cruz, tenho 19 anos e sou natural do interior de São Paulo. Concluí o ensino médio no colégio particular Liceu Paulo Freire, onde fui contemplado com uma bolsa de estudos integral pelo meu desempenho acadêmico. Atualmente, estou cursando Sistemas de Informação na FAFRAM. Sou apaixonado por tecnologia e constantemente busco aprender e adquirir experiência profissional. 
 
 <p align="left">
   <a href="https://www.instagram.com/igorjscruz/" target="_blank">
