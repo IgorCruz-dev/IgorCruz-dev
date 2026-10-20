@@ -2,8 +2,7 @@
 
 **Desenvolvedor full-stack · Co-founder da StudyTrack**
 
-Construo produtos web de ponta a ponta, do banco de dados ao deploy, e uso IA
-onde ela de fato resolve um problema. Lidero a parte técnica da **StudyTrack**,
+Construo produtos web de ponta a ponta, do banco de dados ao deploy. Co-founder da **StudyTrack**,
 plataforma SaaS B2B que cursinhos pré-vestibular usam como portal próprio, e
 curso Sistemas de Informação na FAFRAM.
 
