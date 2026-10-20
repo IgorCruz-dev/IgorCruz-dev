@@ -20,6 +20,7 @@ curso Sistemas de Informação na FAFRAM.
 | Projeto | O que é | Stack |
 |---|---|---|
 | **[StudyTrack](https://www.studytrack.com.br)** | SaaS B2B para cursinhos: portais com a marca de cada escola, banco de questões, simulados, correção de redação e gamificação. Produto ativo, com clientes. | Next.js · TypeScript · Supabase · Flask |
+| **[Associação Branco Zanol](https://www.associacaobrancozanol.com.br)** | Site e painel administrativo de uma associação de judô: notícias, galeria, vídeos, portal de transparência e newsletter, tudo editável pelo cliente. No ar. | Next.js · Supabase · Resend |
 | **[InvestAI](https://github.com/IgorCruz-dev/investai)** | Assistente de investimentos: lê a carteira, busca dados de mercado e notícias, calcula indicadores localmente e usa o Claude para escrever um briefing. Dashboard, web e WhatsApp. | Python · PostgreSQL · Streamlit · Claude API |
 | **[Ave, Palavra!](https://github.com/IgorCruz-dev/ave-palavra-site)** | Site institucional para uma escola de Franca/SP: exportação estática, acessível (WCAG AA) e com conteúdo editável em um único arquivo tipado. | Next.js 16 · TypeScript |
 | **[Memórias — APAE](https://github.com/IgorCruz-dev/memorias)** | Protótipo de hackathon que conecta famílias e a equipe da APAE no acompanhamento diário das crianças. | Next.js · TypeScript · shadcn/ui |
