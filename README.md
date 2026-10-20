@@ -1,6 +1,6 @@
 # Olá, eu sou o Igor 👋
 
-**Desenvolvedor full-stack · Co-fundador e tech lead da StudyTrack**
+**Desenvolvedor full-stack · Co-founder da StudyTrack**
 
 Construo produtos web de ponta a ponta, do banco de dados ao deploy, e uso IA
 onde ela de fato resolve um problema. Lidero a parte técnica da **StudyTrack**,
