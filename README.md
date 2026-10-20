@@ -30,7 +30,6 @@ curso Sistemas de Informação na FAFRAM.
 **Front-end:** TypeScript · React · Next.js · Tailwind CSS
 **Back-end:** Python · Flask · FastAPI · Node.js
 **Dados:** PostgreSQL · Supabase
-**IA:** Claude API · agentes com uso de ferramentas
 **Infra:** Vercel · Oracle Cloud (Linux, systemd) · GitHub Actions
 
 ### 📐 Como eu trabalho
@@ -41,5 +40,4 @@ curso Sistemas de Informação na FAFRAM.
 
 ### 📌 Agora
 
-- Escalando a StudyTrack para novos cursinhos
-- Organizando a Semana de Estudos de SI e Engenharia da FAFRAM pelo Diretório Acadêmico
+- Escalando a StudyTrack para novos cursinhos e buscando criar novos projetos para resolver problemas 
